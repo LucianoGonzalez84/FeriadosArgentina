@@ -1,0 +1,5 @@
+# robots.txt - FeriadosArgentina.ar
+User-agent: *
+Allow: /
+
+Sitemap: https://feriadosargentina.ar/sitemap.xml
